@@ -23,6 +23,7 @@ A simple yet scalable **Bookstore Management System** built in **Go (Golang)** u
 
 ## 🧱 Project Structure
 
+```
 bookstore/
 ├── cmd/
 │   └── main/
@@ -38,6 +39,7 @@ bookstore/
 │   │   └── bookstore-route.go   # Route declarations and bindings
 │   └── utils/
 │       └── utils.go             # Utility functions (e.g., response formatting)
+```
 
 ---
 
